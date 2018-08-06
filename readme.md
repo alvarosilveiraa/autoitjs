@@ -204,6 +204,9 @@ au.Send("Hello, autoit & nodejs!");
 #### ToolTip(szTip [, nX] [, nY])
     Return: none
 
+#### WinList([, szTitle])
+    Return: array
+
 #### WinActivate(szTitle [, szText])
     Return: integer
 #### WinActivate(hWnd)
